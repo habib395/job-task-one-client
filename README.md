@@ -1,8 +1,23 @@
-# React + Vite
+# Job Task Management Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Short Description
+A web application designed to manage tasks effectively. It allows users to create, update, delete, and organize tasks with an intuitive interface. The app supports drag-and-drop functionality for a seamless user experience.
 
-Currently, two official plugins are available:
+## Live Link
+Check out the live version of the application: [Job Task Management](https://able-vest.surge.sh/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Dependencies
+- React
+- Firebase Authentication
+- Express.js
+- MongoDB
+- Vite.js
+- React Router DOM
+
+## Installation Steps
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/habib395/job-task-one-client
+cd job-task-one-client
+npm install
+npm run start
